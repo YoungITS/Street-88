@@ -1,0 +1,178 @@
+@media (max-width: 1200px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .main__title {
+        font-size: 60px;
+    }
+
+    .main__title-2 {
+        font-size: 30px;
+    }
+
+    .card__desc {
+        font-size: 16px;
+    }
+
+    .burger__title {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+         max-width: 720px;
+    }
+
+    .logo {
+        font-size: 25px;
+    }
+
+    .main__title {
+        font-size: 40px;
+    }
+
+    .main__desc {
+        font-size: 16px;
+    }
+
+    .main__box {
+        padding: 20px 20px 20px 20px;
+    }
+
+    .main__prise {
+        font-size: 25px;
+    }
+
+    .main__box-2 {
+        padding: 15px 40px
+    }
+
+    .card__desc {
+        font-size: 11px;
+    }
+
+    .burger__title {
+        font-size: 30px;
+    }
+
+    .card__title {
+        font-size: 16px;
+    }
+}
+@media (max-width: 768px) {
+    .container {
+        max-width: 	540px;
+    } 
+
+    .header__link {
+        font-size: 13px;
+    }
+
+    .logo {
+        padding: 10px 13px;
+        font-size: 16px;
+        gap: 10px;
+    }
+    
+    .header__menu {
+        font-size: 14px;
+    }
+
+    .header__icons {
+        font-size: 16px;
+    }
+
+    .main__title {
+        font-size: 35px;
+    }
+
+    .main__desc {
+        font-size: 14px;
+    }
+
+    .card__title {
+        font-size: 18px;
+    }
+
+    .card__desc {
+        font-size: 16px;
+    }
+
+    .burger__menu-2 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .burger__title {
+        font-size: 25px;
+    }
+
+    .footer__meno {
+        font-size: 16px;
+    }
+
+    .footer__menu {
+        font-size: 16px;
+    }
+
+    .about__title {
+        font-size: 40px;
+    }
+
+    .about__desc {
+        font-size: 14px;
+    }
+    .main__box-2 {
+        padding: 15px 25px;
+    }
+
+    .header__info {
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+    }
+
+}
+@media (max-width: 340px) {
+    .header__icons {
+        font-size: 14px;
+    }
+
+    .logo {
+        padding: 5px 13px;
+        font-size: 11px;
+    }
+
+    .about__desc {
+        font-size: 14px;
+    }
+
+    .main__title {
+        font-size: 25px;
+    }
+
+
+    .main__box-2 {
+        padding: 15px 15px;
+    }
+
+    .main__button {
+        font-size: 14px;
+    }
+    
+
+    .container {
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center
+    }
+
+    .header__menu {
+        padding-top: 10px;
+        flex-wrap: wrap;
+    }
+
+
+}
